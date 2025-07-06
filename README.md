@@ -7,9 +7,9 @@ incluindo o status de Aprovado ou Reprovado com base na nota mínima de 5.
 <figcaption>Foto do Codigo Java Script</figcaption>
 <figuri/>
 
-#Como Funciona
+# Como Funciona
 
-### 1. students Array: Este é o array original que você forneceu, contendo objetos onde cada objeto representa um aluno com seu name (nome) e testGrade (nota do teste).
+ 1. students Array: Este é o array original que você forneceu, contendo objetos onde cada objeto representa um aluno com seu name (nome) e testGrade (nota do teste).
 
 2. MIN_GRADE Constante: Define a nota mínima necessária para que um aluno seja considerado Aprovado. Neste caso, é 5.
 
