@@ -9,13 +9,13 @@ incluindo o status de Aprovado ou Reprovado com base na nota mínima de 5.
 
 #Como Funciona
 
-###1. students Array: Este é o array original que você forneceu, contendo objetos onde cada objeto representa um aluno com seu name (nome) e testGrade (nota do teste).
+### 1. students Array: Este é o array original que você forneceu, contendo objetos onde cada objeto representa um aluno com seu name (nome) e testGrade (nota do teste).
 
 2. MIN_GRADE Constante: Define a nota mínima necessária para que um aluno seja considerado Aprovado. Neste caso, é 5.
 
-3. map() Método:
+3. Map Método:
 
-• O método map() é chamado no array students. Ele itera sobre cada elemento (cada objeto de aluno) do array original.
+• O método Map é chamado no array students. Ele itera sobre cada elemento (cada objeto de aluno) do array original.
 
 • Para cada student (aluno), uma nova função de callback é executada.
 
@@ -27,9 +27,9 @@ incluindo o status de Aprovado ou Reprovado com base na nota mínima de 5.
 
 Caso contrário, o status será Reprovado.
 
-4.studentsWithStatus Array: O map() retorna um novo array (studentsWithStatus) que contém todos os novos objetos criados, cada um com o nome, a nota e o status de aprovação/reprovação.
+4.studentsWithStatus Array: O Map retorna um novo array (studentsWithStatus) que contém todos os novos objetos criados, cada um com o nome, a nota e o status de aprovação/reprovação.
 
-5. console.log(): No final, o console.log() exibe o studentsWithStatus no console, mostrando a lista final com o status de cada aluno.
+5. console.log: No final, o console.log exibe o studentsWithStatus no console, mostrando a lista final com o status de cada aluno.
 
 
 
