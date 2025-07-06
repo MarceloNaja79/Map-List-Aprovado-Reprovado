@@ -1,5 +1,5 @@
 # MAP Lista de Aprovados e Reprovados (Java Script)
-### Criei um arquivo JavaScript (students_list.js) que utiliza o método <u>MAP</u> para gerar uma nova lista de alunos, 
+### Criei um arquivo JavaScript (students_list.js) que utiliza o método MAP para gerar uma nova lista de alunos, 
 incluindo o status de Aprovado ou Reprovado com base na nota mínima de 5.
 
 <figuri>
