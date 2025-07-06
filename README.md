@@ -34,7 +34,8 @@ Caso contrário, o status será Reprovado.
 <figuri>
 <img src="https://github.com/MarceloNaja79/Map-List-Aprovado-Reprovado/blob/74a01f2c514da768330ffa5400f482fa7884c7d3/Capturar%20lista%20de%20Aprovado%20e%20Reprovados2.PNG" />
 <figcaption>Foto da Lista executada no TERMINAL funcionando</figcaption>
-<figuri/>
+<figuri/> <br>
+<br>
 
 Por que <italic> MAP </italic>?
 
