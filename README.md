@@ -31,6 +31,9 @@ Caso contrário, o status será Reprovado.
 
 5. console.log: No final, o console.log exibe o studentsWithStatus no console, mostrando a lista final com o status de cada aluno.
 
-
+<figuri>
+<img src="" />
+<figcaption>Foto do Codigo Java Script</figcaption>
+<figuri/>
 
 <h3 italic>Fique avontade para visitar o Projeto. <a /> Ir para o Site </h3>
