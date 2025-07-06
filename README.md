@@ -32,8 +32,12 @@ Caso contrário, o status será Reprovado.
 5. console.log: No final, o console.log exibe o studentsWithStatus no console, mostrando a lista final com o status de cada aluno.
 
 <figuri>
-<img src="" />
-<figcaption>Foto do Codigo Java Script</figcaption>
+<img src="https://github.com/MarceloNaja79/Map-List-Aprovado-Reprovado/blob/74a01f2c514da768330ffa5400f482fa7884c7d3/Capturar%20lista%20de%20Aprovado%20e%20Reprovados2.PNG" />
+<figcaption>Foto da Lista executada no TERMINAL funcionando</figcaption>
 <figuri/>
 
-<h3 italic>Fique avontade para visitar o Projeto. <a /> Ir para o Site </h3>
+Por que <italic> MAP </italic>?
+
+O <italic> MAP </italic>é ideal para este cenário porque ele permite transformar cada elemento de um array e retornar um novo array com os elementos transformados, sem modificar o array original. Isso é uma prática recomendada em JavaScript para manter a imutabilidade dos dados.
+
+
